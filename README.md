@@ -2,7 +2,7 @@
 
 #### Transforming Ideas into Stunning Digital Experiences
 
-I'm a **Frontend Web Developer** specializing in **Next.js, React, TypeScript, Tailwind CSS, and ShadCN** with **Sanity** for powerful and scalable backend solutions. I help businesses craft sleek, high-performance, and conversion-optimized websites that elevate their digital presence.
+I'm a **Frontend Web Developer** specializing in **Next.js, React, TypeScript, Tailwind CSS, and ShadCN** with **Sanity CMS** for powerful and scalable backend solutions. I help businesses craft sleek, high-performance, and conversion-optimized websites that elevate their digital presence.
 
 ---
 
@@ -30,8 +30,10 @@ I'm a **Frontend Web Developer** specializing in **Next.js, React, TypeScript, T
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-uns-haider-zaidi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-uns-haider-zaidi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unshaider&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unshaider&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unshaider&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=unshaider&color=blue)  
 
 ---
 
